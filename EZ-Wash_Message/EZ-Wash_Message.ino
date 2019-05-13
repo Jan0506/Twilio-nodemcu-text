@@ -8,15 +8,15 @@
 #define USE_SOFTWARE_SERIAL 1
 
 //SETUP
-const char* ssid = "Bethurem_WiFi";
-const char* password = "deadbeef12345678";
+const char* ssid = "XXXXXXXXXX";
+const char* password = "XXXXXXXXXXX";
 const char* fingerprint = "4C:FE:00:19:F3:57:89:7B:02:9A:A4:AA:2E:7B:CB:6E:53:D1:7E:AE";
-const char* account_sid = "AC289617dc2b7c931662add2d9fd18beda";
-const char* auth_token = "54317ea33003f4cfa1d9aeed768dfb9c";
-String to_number    = "+17204750620";
-String from_number = "+17207073716";
+const char* account_sid = "XXXXXXXXXXXX";
+const char* auth_token = "XXXXXXXXXXXXXX";
+String to_number    = "XXXXXXXX";
+String from_number = "XXXXXXXX";
 String message_body    = "Your washer/dryer is done!";
-String master_number    = "+17204750620";
+String master_number    = "XXXXXXXXXXX";
 String media_url = "";
 //
 
