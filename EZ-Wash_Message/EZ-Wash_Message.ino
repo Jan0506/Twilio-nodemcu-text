@@ -15,7 +15,7 @@ const char* account_sid = "XXXXXXXXXXXX";
 const char* auth_token = "XXXXXXXXXXXXXX";
 String to_number    = "XXXXXXXX";
 String from_number = "XXXXXXXX";
-String message_body    = "Your washer/dryer is done!";
+String message_body    = "Hello World!";
 String master_number    = "XXXXXXXXXXX";
 String media_url = "";
 //
